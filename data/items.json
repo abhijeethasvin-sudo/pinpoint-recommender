@@ -1,0 +1,626 @@
+[
+  {
+    "id": 1,
+    "title": "Forest trail journal",
+    "category": "outdoors",
+    "tags": [
+      "nature",
+      "hiking",
+      "travel",
+      "planning"
+    ],
+    "description": "A creative starting point for forest trail journal. Save it to shape your discovery feed.",
+    "image": "/images/outdoors-0.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Mountain weekend route",
+    "category": "outdoors",
+    "tags": [
+      "nature",
+      "hiking",
+      "travel",
+      "journaling"
+    ],
+    "description": "A creative starting point for mountain weekend route. Save it to shape your discovery feed.",
+    "image": "/images/outdoors-1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Lakeside camping guide",
+    "category": "outdoors",
+    "tags": [
+      "nature",
+      "hiking",
+      "travel",
+      "budget"
+    ],
+    "description": "A creative starting point for lakeside camping guide. Save it to shape your discovery feed.",
+    "image": "/images/outdoors-2.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Urban walking map",
+    "category": "outdoors",
+    "tags": [
+      "nature",
+      "hiking",
+      "travel",
+      "weekend"
+    ],
+    "description": "A creative starting point for urban walking map. Save it to shape your discovery feed.",
+    "image": "/images/outdoors-3.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Wildflower field notes",
+    "category": "outdoors",
+    "tags": [
+      "nature",
+      "hiking",
+      "travel",
+      "inspiration"
+    ],
+    "description": "A creative starting point for wildflower field notes. Save it to shape your discovery feed.",
+    "image": "/images/outdoors-0.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Sunrise photography hike",
+    "category": "outdoors",
+    "tags": [
+      "nature",
+      "hiking",
+      "travel",
+      "beginner"
+    ],
+    "description": "A creative starting point for sunrise photography hike. Save it to shape your discovery feed.",
+    "image": "/images/outdoors-1.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Autumn trail checklist",
+    "category": "outdoors",
+    "tags": [
+      "nature",
+      "hiking",
+      "travel",
+      "diy"
+    ],
+    "description": "A creative starting point for autumn trail checklist. Save it to shape your discovery feed.",
+    "image": "/images/outdoors-2.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Backpacking essentials",
+    "category": "outdoors",
+    "tags": [
+      "nature",
+      "hiking",
+      "travel",
+      "collection"
+    ],
+    "description": "A creative starting point for backpacking essentials. Save it to shape your discovery feed.",
+    "image": "/images/outdoors-3.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Calm desk setup",
+    "category": "design",
+    "tags": [
+      "design",
+      "minimal",
+      "workspace",
+      "planning"
+    ],
+    "description": "A creative starting point for calm desk setup. Save it to shape your discovery feed.",
+    "image": "/images/design-0.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Modular shelf sketch",
+    "category": "design",
+    "tags": [
+      "design",
+      "minimal",
+      "workspace",
+      "journaling"
+    ],
+    "description": "A creative starting point for modular shelf sketch. Save it to shape your discovery feed.",
+    "image": "/images/design-1.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Reading corner plan",
+    "category": "design",
+    "tags": [
+      "design",
+      "minimal",
+      "workspace",
+      "budget"
+    ],
+    "description": "A creative starting point for reading corner plan. Save it to shape your discovery feed.",
+    "image": "/images/design-2.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Small apartment layout",
+    "category": "design",
+    "tags": [
+      "design",
+      "minimal",
+      "workspace",
+      "weekend"
+    ],
+    "description": "A creative starting point for small apartment layout. Save it to shape your discovery feed.",
+    "image": "/images/design-3.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Warm lighting study",
+    "category": "design",
+    "tags": [
+      "design",
+      "minimal",
+      "workspace",
+      "inspiration"
+    ],
+    "description": "A creative starting point for warm lighting study. Save it to shape your discovery feed.",
+    "image": "/images/design-0.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Studio storage ideas",
+    "category": "design",
+    "tags": [
+      "design",
+      "minimal",
+      "workspace",
+      "beginner"
+    ],
+    "description": "A creative starting point for studio storage ideas. Save it to shape your discovery feed.",
+    "image": "/images/design-1.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Natural texture palette",
+    "category": "design",
+    "tags": [
+      "design",
+      "minimal",
+      "workspace",
+      "diy"
+    ],
+    "description": "A creative starting point for natural texture palette. Save it to shape your discovery feed.",
+    "image": "/images/design-2.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Creative workspace board",
+    "category": "design",
+    "tags": [
+      "design",
+      "minimal",
+      "workspace",
+      "collection"
+    ],
+    "description": "A creative starting point for creative workspace board. Save it to shape your discovery feed.",
+    "image": "/images/design-3.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Seasonal lunch bowl",
+    "category": "food",
+    "tags": [
+      "food",
+      "cooking",
+      "creative",
+      "planning"
+    ],
+    "description": "A creative starting point for seasonal lunch bowl. Save it to shape your discovery feed.",
+    "image": "/images/food-0.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Weekend bread journal",
+    "category": "food",
+    "tags": [
+      "food",
+      "cooking",
+      "creative",
+      "journaling"
+    ],
+    "description": "A creative starting point for weekend bread journal. Save it to shape your discovery feed.",
+    "image": "/images/food-1.jpg"
+  },
+  {
+    "id": 19,
+    "title": "One-pan dinner plan",
+    "category": "food",
+    "tags": [
+      "food",
+      "cooking",
+      "creative",
+      "budget"
+    ],
+    "description": "A creative starting point for one-pan dinner plan. Save it to shape your discovery feed.",
+    "image": "/images/food-2.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Fresh herb garden",
+    "category": "food",
+    "tags": [
+      "food",
+      "cooking",
+      "creative",
+      "weekend"
+    ],
+    "description": "A creative starting point for fresh herb garden. Save it to shape your discovery feed.",
+    "image": "/images/food-3.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Colorful breakfast plate",
+    "category": "food",
+    "tags": [
+      "food",
+      "cooking",
+      "creative",
+      "inspiration"
+    ],
+    "description": "A creative starting point for colorful breakfast plate. Save it to shape your discovery feed.",
+    "image": "/images/food-0.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Kitchen experiment log",
+    "category": "food",
+    "tags": [
+      "food",
+      "cooking",
+      "creative",
+      "beginner"
+    ],
+    "description": "A creative starting point for kitchen experiment log. Save it to shape your discovery feed.",
+    "image": "/images/food-1.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Market ingredient board",
+    "category": "food",
+    "tags": [
+      "food",
+      "cooking",
+      "creative",
+      "diy"
+    ],
+    "description": "A creative starting point for market ingredient board. Save it to shape your discovery feed.",
+    "image": "/images/food-2.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Picnic recipe collection",
+    "category": "food",
+    "tags": [
+      "food",
+      "cooking",
+      "creative",
+      "collection"
+    ],
+    "description": "A creative starting point for picnic recipe collection. Save it to shape your discovery feed.",
+    "image": "/images/food-3.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Expressive poster study",
+    "category": "art",
+    "tags": [
+      "art",
+      "creative",
+      "color",
+      "planning"
+    ],
+    "description": "A creative starting point for expressive poster study. Save it to shape your discovery feed.",
+    "image": "/images/art-0.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Geometric print collection",
+    "category": "art",
+    "tags": [
+      "art",
+      "creative",
+      "color",
+      "journaling"
+    ],
+    "description": "A creative starting point for geometric print collection. Save it to shape your discovery feed.",
+    "image": "/images/art-1.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Watercolor sketchbook",
+    "category": "art",
+    "tags": [
+      "art",
+      "creative",
+      "color",
+      "budget"
+    ],
+    "description": "A creative starting point for watercolor sketchbook. Save it to shape your discovery feed.",
+    "image": "/images/art-2.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Typography mood board",
+    "category": "art",
+    "tags": [
+      "art",
+      "creative",
+      "color",
+      "weekend"
+    ],
+    "description": "A creative starting point for typography mood board. Save it to shape your discovery feed.",
+    "image": "/images/art-0.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Color palette experiment",
+    "category": "art",
+    "tags": [
+      "art",
+      "creative",
+      "color",
+      "inspiration"
+    ],
+    "description": "A creative starting point for color palette experiment. Save it to shape your discovery feed.",
+    "image": "/images/art-1.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Daily drawing prompts",
+    "category": "art",
+    "tags": [
+      "art",
+      "creative",
+      "color",
+      "beginner"
+    ],
+    "description": "A creative starting point for daily drawing prompts. Save it to shape your discovery feed.",
+    "image": "/images/art-2.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Paper collage journal",
+    "category": "art",
+    "tags": [
+      "art",
+      "creative",
+      "color",
+      "diy"
+    ],
+    "description": "A creative starting point for paper collage journal. Save it to shape your discovery feed.",
+    "image": "/images/art-0.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Music-inspired artwork",
+    "category": "art",
+    "tags": [
+      "art",
+      "creative",
+      "color",
+      "collection"
+    ],
+    "description": "A creative starting point for music-inspired artwork. Save it to shape your discovery feed.",
+    "image": "/images/art-1.jpg"
+  },
+  {
+    "id": 33,
+    "title": "City geometry walk",
+    "category": "photography",
+    "tags": [
+      "photography",
+      "travel",
+      "city",
+      "planning"
+    ],
+    "description": "A creative starting point for city geometry walk. Save it to shape your discovery feed.",
+    "image": "/images/photography-2.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Evening street frames",
+    "category": "photography",
+    "tags": [
+      "photography",
+      "travel",
+      "city",
+      "journaling"
+    ],
+    "description": "A creative starting point for evening street frames. Save it to shape your discovery feed.",
+    "image": "/images/photography-0.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Architecture photo study",
+    "category": "photography",
+    "tags": [
+      "photography",
+      "travel",
+      "city",
+      "budget"
+    ],
+    "description": "A creative starting point for architecture photo study. Save it to shape your discovery feed.",
+    "image": "/images/photography-1.jpg"
+  },
+  {
+    "id": 36,
+    "title": "Neighborhood light map",
+    "category": "photography",
+    "tags": [
+      "photography",
+      "travel",
+      "city",
+      "weekend"
+    ],
+    "description": "A creative starting point for neighborhood light map. Save it to shape your discovery feed.",
+    "image": "/images/photography-2.jpg"
+  },
+  {
+    "id": 37,
+    "title": "Weekend portrait prompts",
+    "category": "photography",
+    "tags": [
+      "photography",
+      "travel",
+      "city",
+      "inspiration"
+    ],
+    "description": "A creative starting point for weekend portrait prompts. Save it to shape your discovery feed.",
+    "image": "/images/photography-0.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Window reflection series",
+    "category": "photography",
+    "tags": [
+      "photography",
+      "travel",
+      "city",
+      "beginner"
+    ],
+    "description": "A creative starting point for window reflection series. Save it to shape your discovery feed.",
+    "image": "/images/photography-1.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Train station stories",
+    "category": "photography",
+    "tags": [
+      "photography",
+      "travel",
+      "city",
+      "diy"
+    ],
+    "description": "A creative starting point for train station stories. Save it to shape your discovery feed.",
+    "image": "/images/photography-2.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Night photography notes",
+    "category": "photography",
+    "tags": [
+      "photography",
+      "travel",
+      "city",
+      "collection"
+    ],
+    "description": "A creative starting point for night photography notes. Save it to shape your discovery feed.",
+    "image": "/images/photography-0.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Algorithm notebook",
+    "category": "learning",
+    "tags": [
+      "learning",
+      "technology",
+      "books",
+      "planning"
+    ],
+    "description": "A creative starting point for algorithm notebook. Save it to shape your discovery feed.",
+    "image": "/images/learning-1.jpg"
+  },
+  {
+    "id": 42,
+    "title": "Reading progress journal",
+    "category": "learning",
+    "tags": [
+      "learning",
+      "technology",
+      "books",
+      "journaling"
+    ],
+    "description": "A creative starting point for reading progress journal. Save it to shape your discovery feed.",
+    "image": "/images/learning-2.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Robotics experiment plan",
+    "category": "learning",
+    "tags": [
+      "learning",
+      "technology",
+      "books",
+      "budget"
+    ],
+    "description": "A creative starting point for robotics experiment plan. Save it to shape your discovery feed.",
+    "image": "/images/learning-0.jpg"
+  },
+  {
+    "id": 44,
+    "title": "Python practice board",
+    "category": "learning",
+    "tags": [
+      "learning",
+      "technology",
+      "books",
+      "weekend"
+    ],
+    "description": "A creative starting point for python practice board. Save it to shape your discovery feed.",
+    "image": "/images/learning-1.jpg"
+  },
+  {
+    "id": 45,
+    "title": "Language learning routine",
+    "category": "learning",
+    "tags": [
+      "learning",
+      "technology",
+      "books",
+      "inspiration"
+    ],
+    "description": "A creative starting point for language learning routine. Save it to shape your discovery feed.",
+    "image": "/images/learning-2.jpg"
+  },
+  {
+    "id": 46,
+    "title": "Science project sketches",
+    "category": "learning",
+    "tags": [
+      "learning",
+      "technology",
+      "books",
+      "beginner"
+    ],
+    "description": "A creative starting point for science project sketches. Save it to shape your discovery feed.",
+    "image": "/images/learning-0.jpg"
+  },
+  {
+    "id": 47,
+    "title": "Weekly study system",
+    "category": "learning",
+    "tags": [
+      "learning",
+      "technology",
+      "books",
+      "diy"
+    ],
+    "description": "A creative starting point for weekly study system. Save it to shape your discovery feed.",
+    "image": "/images/learning-1.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Open source reading list",
+    "category": "learning",
+    "tags": [
+      "learning",
+      "technology",
+      "books",
+      "collection"
+    ],
+    "description": "A creative starting point for open source reading list. Save it to shape your discovery feed.",
+    "image": "/images/learning-2.jpg"
+  }
+]

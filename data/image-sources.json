@@ -1,0 +1,170 @@
+[
+  {
+    "file": "outdoors-0.jpg",
+    "category": "outdoors",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "5695e729f56b86617782e26476ce0339ea14738d8c0cfe1176e91a6eb1033b49"
+  },
+  {
+    "file": "outdoors-1.jpg",
+    "category": "outdoors",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "e988a03865953c4dae27e1622ba633ea5c6d750cbd98d4946d3ee66c7f3feffc"
+  },
+  {
+    "file": "outdoors-2.jpg",
+    "category": "outdoors",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "0ccce84e1b1dd2ac8e7dafaf16d590078e6d164b4d075be0a43e27d115266599"
+  },
+  {
+    "file": "outdoors-3.jpg",
+    "category": "outdoors",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "6be90c3bee995cf13ef4af34a4958845ee0a02711a996bb6f3ea22c3bc7b6338"
+  },
+  {
+    "file": "design-0.jpg",
+    "category": "design",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "d9614731ed53cd1963f08957603d880e4c5809e966105fcdb35c6fc493938845"
+  },
+  {
+    "file": "design-1.jpg",
+    "category": "design",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "4a48ddc0de8169132016ff32e2c25a62f3ca98d2ebd32060090e9620803b2151"
+  },
+  {
+    "file": "design-2.jpg",
+    "category": "design",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "6f90d14246c64a87aa07fbefa7f574973ed65ba2aeef3139a5019225cd155ee4"
+  },
+  {
+    "file": "design-3.jpg",
+    "category": "design",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "f98be28fbd52f3afd1c13b29ee233cd611b34f3b205b0804efe7ffde65109151"
+  },
+  {
+    "file": "food-0.jpg",
+    "category": "food",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "e892b92585b33df41b7477db9d2c521ed875562df86e6a461040175763187230"
+  },
+  {
+    "file": "food-1.jpg",
+    "category": "food",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "e7541e7f95f8c9bff8a3d37d3b7bf74aaf9b4fb99c07689b83d65a359a5e92c9"
+  },
+  {
+    "file": "food-2.jpg",
+    "category": "food",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "975af361b892ffbb0a1939f3227daafeeace247a00ac29628c00c67f97b8dd87"
+  },
+  {
+    "file": "food-3.jpg",
+    "category": "food",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "cffcaa91d96ea9b774a16e61654b00aec001f03506abd517ea71290425f253ac"
+  },
+  {
+    "file": "art-0.jpg",
+    "category": "art",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "03ef6e63a6ac914f612714847f75c40df805e68be1b8029c595ecc6cdf34361e"
+  },
+  {
+    "file": "art-1.jpg",
+    "category": "art",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "9b949b9cea8481c67ad433f5dcabcbefef6bcf93d53632f3cb16dfcfa7125ddc"
+  },
+  {
+    "file": "art-2.jpg",
+    "category": "art",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "fe33515b3cc0864fccca56da9105f938880abe3683c52d0d56587a3f0a6d313b"
+  },
+  {
+    "file": "photography-0.jpg",
+    "category": "photography",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "ad7f75a04068bcf8f90cc99da2209d2bf0125e35f4ce1c85a972688f844aabf6"
+  },
+  {
+    "file": "photography-1.jpg",
+    "category": "photography",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "27bd3f55c958e6b25331aaf19bb89fefe87bfad63b858ef78b3781dc512e2e75"
+  },
+  {
+    "file": "photography-2.jpg",
+    "category": "photography",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "424a9be5eec139397e745fcd0ebbf82bcbd7281cc749e460697df41d020df111"
+  },
+  {
+    "file": "learning-0.jpg",
+    "category": "learning",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "044037732044cedec777e6a2d842a7da111cd82e092b6012fe9e3b9f36f7fae3"
+  },
+  {
+    "file": "learning-1.jpg",
+    "category": "learning",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "7aa69230648923b2742885ed6c32a3ba05f914c8541a44b4116c098428512fc4"
+  },
+  {
+    "file": "learning-2.jpg",
+    "category": "learning",
+    "origin": "Original procedural illustration generated for PinPoint",
+    "generator": "tools/generate_artwork.py",
+    "external_media": false,
+    "sha256": "40043c912af9a91ca07af33c05b8582a8d9c3776f46b6787041bc46c700a0335"
+  }
+]
